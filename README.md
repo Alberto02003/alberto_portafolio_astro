@@ -1,48 +1,55 @@
-# Astro Starter Kit: Basics
+# 🚀 Migración de Portafolio a Astro
 
-```sh
-npm create astro@latest -- --template basics
-```
+Este repositorio contiene el nuevo **portafolio personal** construido con [Astro](https://astro.build), como parte de un proceso de migración desde una versión anterior basada en HTML/CSS/JS (y parcialmente React).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+---
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📌 Objetivo
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Modernizar mi portafolio para que sea más:
 
-## 🚀 Project Structure
+- ⚡ **Rápido** (menor carga JavaScript, renderizado estático por defecto)
+- 📱 **Responsivo y accesible**
+- 🧩 **Modular** y fácil de mantener
+- 🌐 **Optimizado para SEO**
 
-Inside of your Astro project, you'll see the following folders and files:
+La migración a Astro permite combinar lo mejor del contenido estático con componentes dinámicos si se requieren (React, Vue, Svelte, etc.).
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+---
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 🧠 ¿Por qué Astro?
 
-## 🧞 Commands
+Astro ofrece varias ventajas frente a los enfoques tradicionales:
 
-All commands are run from the root of the project, from a terminal:
+| Característica                | Descripción                                      |
+|------------------------------|--------------------------------------------------|
+| `0️⃣ JS por defecto`         | Solo carga JS cuando es necesario                |
+| `🔌 Framework-agnostic`       | Compatible con React, Vue, Svelte, etc.          |
+| `🗂️ File-based routing`       | Sistema de rutas por estructura de archivos      |
+| `📄 Markdown + MDX`           | Ideal para documentación o secciones tipo blog   |
+| `🚀 Build optimizado`         | Rendimiento excelente desde el primer render     |
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+## 🛠️ Tecnologías utilizadas
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com) para estilos
+- [TypeScript](https://www.typescriptlang.org/) (opcional, en progreso)
+- [Markdown](https://www.markdownguide.org/) para contenido estructurado
+- Despliegue en [Netlify](https://netlify.com) / [Vercel](https://vercel.com)
+
+---
+
+## 🔗 Enlaces
+
+- 🌐 Sitio actual: [https://astro.tu-dominio.com](https://albertomartin.netlify.app)
+
+---
+
+## 📝 Notas finales
+
+Este proyecto busca no solo mejorar mi portafolio personal, sino también servirme como **aprendizaje de Astro** y otras herramientas modernas del ecosistema web.
+
+Agradezco cualquier sugerencia o feedback técnico.  
+¡Gracias por visitar y seguir el proceso!
