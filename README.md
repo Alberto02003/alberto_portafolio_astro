@@ -1,6 +1,6 @@
 # 🚀 Migración de Portafolio a Astro
 
-Este repositorio contiene el nuevo **portafolio personal** construido con [Astro](https://astro.build), como parte de un proceso de migración desde una versión anterior basada en HTML/CSS/JS (y parcialmente React).
+Este repositorio contiene el nuevo **portafolio personal** construido con [Astro](https://astro.build), como parte de un proceso de migración desde una versión anterior basada en HTML/CSS/JS .
 
 ---
 
